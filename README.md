@@ -29,9 +29,6 @@ The objective of this project is to analyze a Portuguese bank’s marketing camp
 - Repeated campaign exposure leads to reduced conversion (campaign fatigue)
 - Certain job categories consistently show higher subscription intent
 
-## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
-
 ## Business Recommendations
 - Prioritize customers with previous campaign success
 - Focus marketing efforts on cellular contact
